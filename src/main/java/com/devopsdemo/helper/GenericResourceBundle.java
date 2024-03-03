@@ -3,7 +3,7 @@ package com.devopsdemo.helper;
 import java.util.Enumeration;
 import java.util.ResourceBundle;
 
-//test commits
+//test commit1
 public class GenericResourceBundle {
 	public static String getProperties(String source){
 		ResourceBundle rb = ResourceBundle.getBundle("ResourceBundle");
